@@ -4,4 +4,17 @@
   box-sizing: border-box;
 }
 
-.
+.logo {
+  
+}
+
+.navbar {
+  
+}
+
+.landing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
