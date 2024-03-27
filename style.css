@@ -15,6 +15,14 @@
   overflow: hidden;
 }
 
+.navbar ul li a {
+  display: inline;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 50%);
+}
+
 .landing {
   display: flex;
   justify-content: center;
